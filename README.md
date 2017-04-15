@@ -1,6 +1,6 @@
 # Front End Slicing Starter (LESS or SASS)
 
-This is to get you up and running with Bootstrap 4 and compiling SCSS in seconds.
+This is to get you up and running with Bootstrap 4 and compiling SCSS with live-reload in a matter of seconds.
 
 Includes out-of-the-box:
 
