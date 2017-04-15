@@ -42,7 +42,7 @@ npm install -g browser-sync
 **That's it!** Hopefully you already had some of these installed. It shouldn't hurt to re-run any of these if you already installed them.
 
 
-## How do I install it?
+## How to install manually
 
 ### Clone the Repo
 
