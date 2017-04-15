@@ -4,6 +4,8 @@ var gulp    = require('gulp'),
     browserSync = require('browser-sync').create();
     bower = require('gulp-bower');
 
+
+
 // Minify jQuery Plugins: Run manually with: "gulp squish-plugins"
 gulp.task('squish-plugins', function() {
     gulp.src('js/plugins/**/*.js')
@@ -14,6 +16,8 @@ gulp.task('squish-plugins', function() {
         .pipe(gulp.dest('public/js'))
         .pipe(browserSync.stream());
 });
+
+
 
 // Minify Custom JS: Run manually with: "gulp build-js"
 gulp.task('build-js', function() {
