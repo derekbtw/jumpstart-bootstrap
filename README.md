@@ -1,6 +1,6 @@
 # Front End Slicing Starter (LESS or SASS)
 
-This is a super easy to use LESS or SASS starter to get you editing LESS or SASS code in seconds.
+This is to get you up and running with Bootstrap 4 and compiling SCSS in seconds.
 
 Includes out-of-the-box:
 
@@ -9,10 +9,14 @@ Includes out-of-the-box:
 * Auto-minify that CSS
 * Auto-minify JavaScript
 * Build a local **webserver** with **live-reload** to test on in seconds
-* Bootstrap 3 Ready
+* Bootstrap 4
+* NEW: jumpstart-bootstrap git bash script to automate literally everything for you. Read more below.
 
 
 ## What requirements do I need?
+
+### Recommended way of installing:
+Run the jumpstart-bootstrap.sh script. The installer will ask you to name your project. It will then proceed to clone the repo to the current directory with the name you gave it, compile, and start a local webserver with live-reload.
 
 ### Step 1: Node.JS (easy install)
 Install Node.js [Node.js](https://nodejs.org/en/) is installed (use installer). Skip this is you already have Node on your computer.
