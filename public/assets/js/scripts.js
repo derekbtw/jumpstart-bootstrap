@@ -1,4 +1,6 @@
-console.log('power');
+console.log('What is the power level?');
+console.log('Power level output: IT\'S OVER 9000!!!!');
+console.log('WHAT?! Over 9000?! There\'s no way that could be right');
 
 (function () {
   'use strict'
