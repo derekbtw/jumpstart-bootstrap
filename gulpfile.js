@@ -72,13 +72,6 @@ gulp.task('build-scss', function() {
 
 
 
-gulp.task('icons', function() {
-    return gulp.src('bower_components/font-awesome/**.*')
-        .pipe(gulp.dest('./public/assets/fonts'));
-});
-
-
-
 gulp.task('serve', function() {
 
     browserSync.init({
