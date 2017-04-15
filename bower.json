@@ -1,0 +1,30 @@
+{
+  "name": "jumpstart-bootstrap-4",
+  "description": "This is to get you up and running with Bootstrap 4 and compiling SCSS in seconds.",
+  "main": "scss/main.scss",
+  "authors": [
+    "Derek Bytheway"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "bootstrap",
+    "bootstrap4",
+    "jumpstart",
+    "scss"
+  ],
+  "homepage": "http://derekbtw.com/jumpstart-bootstrap-4",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "4.0.0-alpha.6"
+  },
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}

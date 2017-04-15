@@ -1,0 +1,37 @@
+{
+  "name": "jumpstart-bootstrap-4",
+  "description": "This is to get you up and running with Bootstrap 4 and compiling SCSS in seconds.",
+  "version": "1.0.0",
+  "homepage": "https://school.scotch.io",
+  "author": {
+    "name": "Derek Bytheway",
+    "email": "derekbtw@gmail.com",
+    "url": "http://derekbtw.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "http://opensource.org/licenses/MIT"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/derekbtw/bootstrap-4-jumpstart"
+  },
+  "bugs": {
+    "url": "https://github.com/derekbtw/bootstrap-4-jumpstart/issues"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-bower": "0.0.13",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-jshint": "^1.12.0",
+    "gulp-load-plugins": "^0.8.1",
+    "gulp-plumber": "^0.6.6",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^1.5.4",
+    "gulp-util": "^3.0.8",
+    "jshint-stylish": "^1.0.2"
+  }
+}
