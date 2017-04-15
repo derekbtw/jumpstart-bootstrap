@@ -10,7 +10,7 @@ Includes out-of-the-box:
 * Auto-minify JavaScript
 * Build a local **webserver** with **live-reload** to test on in seconds
 * Bootstrap 4
-* NEW: jumpstart-bootstrap git bash script to automate literally everything for you. Read more below.
+* **NEW:** jumpstart-bootstrap git bash script to automate literally everything for you. Read more below.
 
 
 ## What requirements do I need?
