@@ -13,7 +13,7 @@ Includes out-of-the-box:
 * **NEW:** jumpstart-bootstrap git bash script to automate literally everything for you. Read more below.
 
 
-## Recommended way of installing:
+## Recommended way of installing
 Run the jumpstart-bootstrap.sh script. The installer will ask you to name your project. It will then proceed to clone the repo to the current directory with the name you gave it, compile, and start a local webserver with live-reload.
 
 
