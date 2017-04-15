@@ -89,7 +89,7 @@ gulp
 Make sure you have everything installed. If it's still not working, run:
 
 ```
-sudo npm cache clean
+npm cache clean
 npm install --save-dev
 npm update --save-dev
 gulp
