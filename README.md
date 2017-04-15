@@ -17,7 +17,7 @@ Includes out-of-the-box:
 Run the jumpstart-bootstrap.sh script. The installer will ask you to name your project. It will then proceed to clone the repo to the current directory with the name you gave it, compile, and start a local webserver with live-reload.
 
 
-## Installing manually
+## Requirements you'll need before running script
 
 ### Step 1: Node.JS (easy install)
 Install Node.js [Node.js](https://nodejs.org/en/) is installed (use installer). Skip this is you already have Node on your computer.
